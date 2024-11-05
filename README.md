@@ -1,4 +1,4 @@
-# Noah: reverse engineering of a game with mechas, martial art and where you kill God.
+# Noah: Reverse engineering of a game with mecha and martial arts, where you kill God.
 
 # Build:
 Only Windows builds are supported right now. You need vs2022 installed with CMake
